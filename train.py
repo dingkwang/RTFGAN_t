@@ -27,7 +27,7 @@ from util.util import compute_results
 import logging
 import logging.config
 
-from model import RTFNet
+# from model import RTFNet
 from networks import encoder, unet
 from util.MF_dataset import MF_dataset
 from ganmodels import Generator, Discriminator
